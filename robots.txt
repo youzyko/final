@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /forbidden/
+
+#DaumWebMasterTool:338aea3bd74c979b92619ed7466135354d82629493cd9cea4c56c6dab1d1e0b6:FYs7AEk5W6Z5D9U4vjtXPQ==
